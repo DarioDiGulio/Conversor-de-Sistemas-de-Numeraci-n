@@ -30,8 +30,8 @@ public class Conversor {
 	}
 
 	private String obtenerEgreso() {
-		// TODO Auto-generated method stub
-		return null;
+
+		return "Estamos trabajando: #QuedateEnCasa";
 	}
 
 	public void convertirDeDecimalABinario() {
